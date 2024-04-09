@@ -1,5 +1,5 @@
 import {ComponentFixture, TestBed, waitForAsync} from "@angular/core/testing";
-import { PropertyBindingComponent } from "../../../../angular-binding-2/src/app/property-binding/property-binding.component";
+import { PropertyBindingComponent } from "./property-binding.component";
 
 describe("PropertyBindingComponent", () => {
   let fixture: ComponentFixture<PropertyBindingComponent>;

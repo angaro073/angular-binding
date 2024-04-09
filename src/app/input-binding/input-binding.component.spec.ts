@@ -1,5 +1,5 @@
 import {ComponentFixture, TestBed, waitForAsync} from "@angular/core/testing";
-import { InputBindingComponent } from "../../../../angular-binding-2/src/app/input-binding/input-binding.component";
+import { InputBindingComponent } from "./input-binding.component";
 
 describe("InputBindingComponent", () => {
   let inputBindingComp: InputBindingComponent;

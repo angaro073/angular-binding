@@ -1,5 +1,5 @@
 import {ComponentFixture, TestBed, waitForAsync} from '@angular/core/testing';
-import { TextInterpolationComponent } from '../../../../angular-binding-2/src/app/text-interpolation/text-interpolation.component';
+import { TextInterpolationComponent } from './text-interpolation.component';
 
 describe('TextInterpolationComponent', () => {
   let textInterpolationComp: TextInterpolationComponent;

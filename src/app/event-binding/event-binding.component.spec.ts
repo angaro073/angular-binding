@@ -1,5 +1,5 @@
 import {ComponentFixture, TestBed, waitForAsync} from "@angular/core/testing";
-import { EventBindingComponent } from "../../../../angular-binding-2/src/app/event-binding/event-binding.component";
+import { EventBindingComponent } from "./event-binding.component";
 
 describe("EventBindingComponent", () => {
   let fixture: ComponentFixture<EventBindingComponent>;

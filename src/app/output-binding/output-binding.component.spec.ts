@@ -1,6 +1,6 @@
 import {ComponentFixture, TestBed, waitForAsync} from "@angular/core/testing";
-import { OutputBindingComponent } from "../../../../angular-binding-2/src/app/output-binding/output-binding.component";
-import { SizerComponent } from "../../../../angular-binding-2/src/app/sizer/sizer.component";
+import { OutputBindingComponent } from "./output-binding.component";
+import { SizerComponent } from "../sizer/sizer.component";
 import { By } from "@angular/platform-browser";
 
 describe("OutputBindingComponent", () => {

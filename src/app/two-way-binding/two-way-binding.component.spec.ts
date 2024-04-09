@@ -1,6 +1,6 @@
 import {ComponentFixture, TestBed, waitForAsync} from "@angular/core/testing";
-import { TwoWayBindingComponent } from "../../../../angular-binding-2/src/app/two-way-binding/two-way-binding.component";
-import { SizerComponent } from "../../../../angular-binding-2/src/app/sizer/sizer.component";
+import { TwoWayBindingComponent } from "./two-way-binding.component";
+import { SizerComponent } from "../sizer/sizer.component";
 import { By } from "@angular/platform-browser";
 
 describe("TwoWayBindingComponent", () => {
